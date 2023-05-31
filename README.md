@@ -1,9 +1,9 @@
 # ESRGANs
 
-##Aim of the project 
+## Aim of the project 
 The project involves implementation of Generative adversarial networks (GANs) using PyTorch to enhance low resolution images having a lot of loss in details and to make those image having great spatial resolution.
 
-###My learnings: 
+### My learnings: 
 * The ML terminology: training set, features, targets, parameters, model, cost, loss, learning algorithm, learning curve, regression, classification
 * Regression: linear regression model, gradient descent learning algorithm, mean squared cost funciton
 * Binary Classification: logistic regression model, gradient descent learning algorithm, binary cross entropy cost function
