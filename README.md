@@ -4,9 +4,9 @@
 The project involves implementation of Generative adversarial networks (GANs) using PyTorch to enhance low resolution images having a lot of loss in details and to make those image having great spatial resolution.
 
 ### My learnings: 
-* The ML terminology: training set, features, targets, parameters, model, cost, loss, learning algorithm, learning curve, regression, classification
-* Regression: linear regression model, gradient descent learning algorithm, mean squared cost funciton
-* Binary Classification: logistic regression model, gradient descent learning algorithm, binary cross entropy cost function
-* Neural Network: Neuron, Neural Net, Deep neural nets, hidden layers, activations
+* The basic Machine Learning : features, targets, parameters, model, cost, loss, learning algorithm, learning curve, regression, classification, handling data sets from IRIS and MNIST.
+* Regression: Linear regression model, Gradient descent learning algorithm, Mean squared cost funciton.
+* Binary Classification: logistic regression model, binary cross entropy cost function.
+* Neural Network: Neuron, Neural Net, Deep neural nets, hidden layers, activations.
 * Multiclass Classification: Softmax activation function, sparse categorical cross entropy cost function
 * Some useful functions of Python libraries like NumPy, TenserFlow and PyTorch
